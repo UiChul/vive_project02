@@ -1,0 +1,406 @@
+{
+  "collectedAt": "2026-10-29T07:32:30.689Z",
+  "items": [
+    {
+      "id": "gh-1432649361",
+      "source": "github",
+      "title": "hevnsnt/CVEngine",
+      "url": "https://github.com/hevnsnt/CVEngine",
+      "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
+      "metrics": {
+        "stars": 449
+      },
+      "meta": {
+        "language": "Python",
+        "topics": "ai, attack-surface-management, bbot, cybersecurity, mcp"
+      }
+    },
+    {
+      "id": "gh-1434171555",
+      "source": "github",
+      "title": "free-cracks/Adobe-Acrobat-Pro",
+      "url": "https://github.com/free-cracks/Adobe-Acrobat-Pro",
+      "description": "",
+      "metrics": {
+        "stars": 289
+      },
+      "meta": {
+        "language": null,
+        "topics": "adobe-acrobat, ai, ilovepdf, pdf, pdf-compressor"
+      }
+    },
+    {
+      "id": "gh-1433932117",
+      "source": "github",
+      "title": "JunWan666/astrbot-for-android",
+      "url": "https://github.com/JunWan666/astrbot-for-android",
+      "description": "在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。",
+      "metrics": {
+        "stars": 244
+      },
+      "meta": {
+        "language": "Kotlin",
+        "topics": "ai, android, astrbot, chatbot, jetpack-compose"
+      }
+    },
+    {
+      "id": "gh-1436698875",
+      "source": "github",
+      "title": "shipwords-dev/shipwords",
+      "url": "https://github.com/shipwords-dev/shipwords",
+      "description": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
+      "metrics": {
+        "stars": 202
+      },
+      "meta": {
+        "language": "TypeScript",
+        "topics": "ai, cloudflare, cloudflare-workers, d1, react"
+      }
+    },
+    {
+      "id": "gh-1430540130",
+      "source": "github",
+      "title": "liyupi/dafeiyu-cleaner",
+      "url": "https://github.com/liyupi/dafeiyu-cleaner",
+      "description": "DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。DeepSeek AI bot detector for Bilibili comments.",
+      "metrics": {
+        "stars": 120
+      },
+      "meta": {
+        "language": "JavaScript",
+        "topics": "ai, ai-agent, ai-content-detection, ai-detection, aigc"
+      }
+    },
+    {
+      "id": "gh-1431932080",
+      "source": "github",
+      "title": "lwh0630/TokenBar",
+      "url": "https://github.com/lwh0630/TokenBar",
+      "description": "Open-source, cross-platform AI quota monitor (Codex, Claude, Cursor and 47 more). Windows, macOS, Linux, Android and iOS. Built with Flutter.",
+      "metrics": {
+        "stars": 117
+      },
+      "meta": {
+        "language": "Dart",
+        "topics": "ai, android, claude, codex, cursor"
+      }
+    },
+    {
+      "id": "gh-1430410922",
+      "source": "github",
+      "title": "Shaitrish/37studio",
+      "url": "https://github.com/Shaitrish/37studio",
+      "description": "Open-source AI alternative to Buffer and Opus Clip: Claude Code makes on-brand videos, posts them to 9 platforms and drafts replies. Self-hosted, your own keys.",
+      "metrics": {
+        "stars": 107
+      },
+      "meta": {
+        "language": "Go",
+        "topics": "ai, ai-agents, claude-code, docker, golang"
+      }
+    },
+    {
+      "id": "gh-1431071913",
+      "source": "github",
+      "title": "verity-mods/verity-enhanced",
+      "url": "https://github.com/verity-mods/verity-enhanced",
+      "description": "Unofficial Enhanced Edition of the Verity Minecraft mod. Upgraded AI, new scenarios, multiple endings, and support for Forge 1.18 - 1.21.11",
+      "metrics": {
+        "stars": 100
+      },
+      "meta": {
+        "language": null,
+        "topics": "ai, forge, horror, minecraft, minecraft-horror"
+      }
+    },
+    {
+      "id": "gh-1430540152",
+      "source": "github",
+      "title": "litmers-dev/litpage",
+      "url": "https://github.com/litmers-dev/litpage",
+      "description": "Open-source, self-hosted workspace for pages, databases and AI. One Node.js process with SQLite.",
+      "metrics": {
+        "stars": 84
+      },
+      "meta": {
+        "language": "TypeScript",
+        "topics": "ai, block-editor, database, knowledge-base, nodejs"
+      }
+    },
+    {
+      "id": "gh-1431430280",
+      "source": "github",
+      "title": "gabe-santana/arkdraw",
+      "url": "https://github.com/gabe-santana/arkdraw",
+      "description": "Arkdraw is an open-source diagramming app for creating flowcharts, UML, ER diagrams, network maps, wireframes, and mind maps with a built-in AI assistant that generates and edits diagrams from natural-language prompts.",
+      "metrics": {
+        "stars": 54
+      },
+      "meta": {
+        "language": "TypeScript",
+        "topics": "ai, architecture-diagrams, aws, azure, diagram"
+      }
+    },
+    {
+      "id": "rd-t3_1xhmo1q",
+      "source": "reddit",
+      "title": "Someone built a 32-bit RISC-V CPU directly inside Qwen's model weights so it can execute instructions internaly!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhmo1q/someone_built_a_32bit_riscv_cpu_directly_inside/",
+      "description": "This might have implications for tool calling and computer use. Write-up: https://divagr.com/blog/qwenputer HF: https://huggingface.co/divagr1925/Qwen3.5-4B-Qwenputer Live demo: https://modelscope.ai/studios/Spartan1925/Qwenputer ",
+      "metrics": {},
+      "meta": {
+        "subreddit": "LocalLLaMA",
+        "rank": "1",
+        "published": "2026-10-28T12:26:44+00:00"
+      }
+    },
+    {
+      "id": "rd-t3_1xhu3b0",
+      "source": "reddit",
+      "title": "Mac Studio M5 Ultra 512gb Starts at $22,299.00 USD",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhu3b0/mac_studio_m5_ultra_512gb_starts_at_2229900_usd/",
+      "description": "",
+      "metrics": {},
+      "meta": {
+        "subreddit": "LocalLLaMA",
+        "rank": "2",
+        "published": "2026-10-28T17:11:16+00:00"
+      }
+    },
+    {
+      "id": "rd-t3_1xhsvmy",
+      "source": "reddit",
+      "title": "IT vendor lists massive $60 million AI supercomputer on eBay with 9,600 Nvidia A100 GPUs and 4,200 AMD EPYC CPUs, plus free shipping — 300 racks of decommissioned GPUs on offer",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhsvmy/it_vendor_lists_massive_60_million_ai/",
+      "description": "Anyone want to chip in a cool $60m for me? ",
+      "metrics": {},
+      "meta": {
+        "subreddit": "LocalLLaMA",
+        "rank": "3",
+        "published": "2026-10-28T16:28:00+00:00"
+      }
+    },
+    {
+      "id": "rd-t3_1xhjn9d",
+      "source": "reddit",
+      "title": "Gemma 5 models soon ??",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhjn9d/gemma_5_models_soon/",
+      "description": "https://x.com/osanseviero/status/2115351234811249111 ",
+      "metrics": {},
+      "meta": {
+        "subreddit": "LocalLLaMA",
+        "rank": "4",
+        "published": "2026-10-28T09:45:18+00:00"
+      }
+    },
+    {
+      "id": "rd-t3_1xhubiw",
+      "source": "reddit",
+      "title": "A small step for man, a GIANT step for LOCAL AI",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhubiw/a_small_step_for_man_a_giant_step_for_local_ai/",
+      "description": "Shoutout to the Unsloth AI team for constantly pushing the needle forward for local ai worldwide. While many of us already had features such as this via other means, it is more what this means for entry level ai enthusiasts & accessibility. It is clear as day! We are in \"the age of the agent.\" The more people we can get onboard local ai, the tougher it will be for the powers that be to snatch it from us. ",
+      "metrics": {},
+      "meta": {
+        "subreddit": "LocalLLaMA",
+        "rank": "5",
+        "published": "2026-10-28T17:19:05+00:00"
+      }
+    },
+    {
+      "id": "rd-t3_1xhtg61",
+      "source": "reddit",
+      "title": "List of suggestions for Gemma 5.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhtg61/list_of_suggestions_for_gemma_5/",
+      "description": "Recently Omar Sanseviero asked for suggestions on Twitter for future Gemma models. Here is my take on this: Gemma 5 should be a looped transformer . Being a looped transformer with configurable loop depth will address one of the biggest Gemma 4 weaknesses - reasoning ability. Don't get me wrong, I love how concise Gemma 4 is with its reasoning, but it actively hinders its performance in certain scenarios, being looped will allow the model to perform better in such tasks, while still being config",
+      "metrics": {},
+      "meta": {
+        "subreddit": "LocalLLaMA",
+        "rank": "6",
+        "published": "2026-10-28T16:48:46+00:00"
+      }
+    },
+    {
+      "id": "rd-t3_1xi7390",
+      "source": "reddit",
+      "title": "Qwen4 1M context window",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xi7390/qwen4_1m_context_window/",
+      "description": "Qwen4 models will have a 1 million context window. Qwen4-27B was not mentioned here, but should be announced at Apsara netherlands tommorow. We have a date for Qwen4-max, it is November 1st. Edit: It says October 1st, so its probably a placeholder. PR: https://github.com/QwenLM/qwen-code/pull/15762 https://preview.redd.it/ounsliro9byh1.png?width=823&format=png&auto=webp&s=0762bd7178df8605b3082d60ff83da8e3d399ba7 ",
+      "metrics": {},
+      "meta": {
+        "subreddit": "LocalLLaMA",
+        "rank": "7",
+        "published": "2026-10-29T01:42:55+00:00"
+      }
+    },
+    {
+      "id": "rd-t3_1xhk7hp",
+      "source": "reddit",
+      "title": "AA is getting ridiculous now. Zero open weights in the Most Attractive Quadrant.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhk7hp/aa_is_getting_ridiculous_now_zero_open_weights_in/",
+      "description": "https://preview.redd.it/dvq3y314o6yh1.png?width=1332&format=png&auto=webp&s=87a0adf5f6329c375b253f4d18f8ebaf2e457e6f I've always actively disagreed with the conspiracy takes when AA reshuffled their index, but v5.0 now has zero open weight models in AA's Most Attractive Quadrant, let alone getting anywhere close to the Pareto line. The old version at least acknowledged DeepSeek, GLM, Kimi, and Qwen were attractive/interesting. I'm ready to ignore AA's index and look at the subsidiary benchmarks.",
+      "metrics": {},
+      "meta": {
+        "subreddit": "LocalLLaMA",
+        "rank": "8",
+        "published": "2026-10-28T10:19:22+00:00"
+      }
+    },
+    {
+      "id": "rd-t3_1xhw2l0",
+      "source": "reddit",
+      "title": "A 4B model made me a netherite ingot from bare hands. All I did was type one sentence in chat.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhw2l0/a_4b_model_made_me_a_netherite_ingot_from_bare/",
+      "description": "Last time my Minecraft assistant could do tasks, but it couldn’t really understand what you asked it in plain language. This time I built a pipeline for exactly that part, and it isn’t tailored to this one sentence. It works for requests in general. In the video the player types “I’m hungry, get me at least 3 porkchops and also make me a netherite ingot.” Mica v0.5 4B reads it, works out the two goals and how many of each, and then starts from bare hands. It goes wood, tools, iron, diamonds, obs",
+      "metrics": {},
+      "meta": {
+        "subreddit": "LocalLLaMA",
+        "rank": "9",
+        "published": "2026-10-28T18:21:25+00:00"
+      }
+    },
+    {
+      "id": "rd-t3_1xhqy12",
+      "source": "reddit",
+      "title": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B · Hugging Face",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhqy12/nvidianvidianemotron35transcribe30ba4b_hugging/",
+      "description": "",
+      "metrics": {},
+      "meta": {
+        "subreddit": "LocalLLaMA",
+        "rank": "10",
+        "published": "2026-10-28T15:19:10+00:00"
+      }
+    },
+    {
+      "id": "rd-t3_1xi1fg7",
+      "source": "reddit",
+      "title": "LLMs are significantly better at finding mistakes in papers than trained human reviewers",
+      "url": "https://www.reddit.com/r/artificial/comments/1xi1fg7/llms_are_significantly_better_at_finding_mistakes/",
+      "description": "https://fixupx.com/rust_ruslan/status/2115493697001513053?a=rVJZ_8g4TDjREuYi4jc&s=20 ",
+      "metrics": {},
+      "meta": {
+        "subreddit": "artificial",
+        "rank": "11",
+        "published": "2026-10-28T21:40:09+00:00"
+      }
+    },
+    {
+      "id": "rd-t3_1xhoeo3",
+      "source": "reddit",
+      "title": "Used Qwen 3.8 flash next on underspeced PC to Root and gut LG TV of spy and adware",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhoeo3/used_qwen_38_flash_next_on_underspeced_pc_to_root/",
+      "description": "I post this because I was honestly quite impressed by the capabilities of this model from a opencode harness and wanted to share my experience. So i've been playing about for a bit wit Strata and Qwen 3.8 flash for a bit and was looking for a new kind of test. One that would also (if succesfull..) give a real life benifit. And since I also like a bit of danger. I thought lets put my spying LG tv on the line since I am to lazy to root and block it myself. It was also something that is in a bit of",
+      "metrics": {},
+      "meta": {
+        "subreddit": "LocalLLaMA",
+        "rank": "12",
+        "published": "2026-10-28T13:41:58+00:00"
+      }
+    },
+    {
+      "id": "rd-t3_1xhvf1z",
+      "source": "reddit",
+      "title": "Theory: Local is going to explode at enterprises",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhvf1z/theory_local_is_going_to_explode_at_enterprises/",
+      "description": "As suggested by this post: https://x.com/thdxr/status/2115447178722177226 Enterprises want to keep their secrets. Local AI with big local models is plenty good for the majority of tasks. Enterprises just need a plug and play solution? ",
+      "metrics": {},
+      "meta": {
+        "subreddit": "LocalLLaMA",
+        "rank": "13",
+        "published": "2026-10-28T17:58:04+00:00"
+      }
+    },
+    {
+      "id": "rd-t3_1xi3l9r",
+      "source": "reddit",
+      "title": "Electronics hobbyist converts $120 DDR5 SODIMM kit into ‘$1000’ desktop kit to fight RAM crisis — ICs from SK hynix DDR5-5600 16GB modules used to create DDR5-7800 desktop sticks",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xi3l9r/electronics_hobbyist_converts_120_ddr5_sodimm_kit/",
+      "description": "So just read this article and had a couple questions about this as I have not much experience in this. Maybe the more experience people may be able to explain it better. Is this a viable path to upgrade hardware at a lower cost for LLM, is it much harder than as stated in the read like soldiering and what not, also has anyone done something similar to this and had good and stable results? ",
+      "metrics": {},
+      "meta": {
+        "subreddit": "LocalLLaMA",
+        "rank": "14",
+        "published": "2026-10-28T23:08:15+00:00"
+      }
+    },
+    {
+      "id": "rd-t3_1xhl1jb",
+      "source": "reddit",
+      "title": "A faster way to compute signed 64-bit floor division by constants",
+      "url": "https://www.reddit.com/r/programming/comments/1xhl1jb/a_faster_way_to_compute_signed_64bit_floor/",
+      "description": "",
+      "metrics": {},
+      "meta": {
+        "subreddit": "programming",
+        "rank": "15",
+        "published": "2026-10-28T11:05:08+00:00"
+      }
+    },
+    {
+      "id": "rd-t3_1xhinyj",
+      "source": "reddit",
+      "title": "Diffuspace/Clover-35B-A3B-Preview · Hugging Face",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhinyj/diffuspaceclover35ba3bpreview_hugging_face/",
+      "description": "Clover-35B-A3B-Preview is the first model released by DiffuSpace , delivering state-of-the-art performance among open-source diffusion language models at release on the benchmarks reported in our launch blog . Clover combines a 35B-parameter mixture-of-experts backbone with approximately 3B active parameters per token, block diffusion generation, and a 128K context window . Blog · Code & inference backends · Hugging Face ",
+      "metrics": {},
+      "meta": {
+        "subreddit": "LocalLLaMA",
+        "rank": "16",
+        "published": "2026-10-28T08:43:16+00:00"
+      }
+    },
+    {
+      "id": "rd-t3_1xhpagj",
+      "source": "reddit",
+      "title": "Making SIMD Code Scale to Any Vector Width",
+      "url": "https://www.reddit.com/r/programming/comments/1xhpagj/making_simd_code_scale_to_any_vector_width/",
+      "description": "",
+      "metrics": {},
+      "meta": {
+        "subreddit": "programming",
+        "rank": "17",
+        "published": "2026-10-28T14:16:37+00:00"
+      }
+    },
+    {
+      "id": "rd-t3_1xhse0l",
+      "source": "reddit",
+      "title": "Alternatives to Artificial Analysis",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhse0l/alternatives_to_artificial_analysis/",
+      "description": "I share this sub's sentiment that it's suspicious how Artificial Analysis changes their metrics whenever a good open model or IPO seems to come about. What alternatives do you all recommend? ",
+      "metrics": {},
+      "meta": {
+        "subreddit": "LocalLLaMA",
+        "rank": "18",
+        "published": "2026-10-28T16:10:30+00:00"
+      }
+    },
+    {
+      "id": "rd-t3_1xhny7x",
+      "source": "reddit",
+      "title": "I took EmbeddingGemma-2 (577M) from Rank #26 to #1 on the MTEB Audio leaderboard (MAEB), beating 9B models by adding a 2.4 MB PCA head with zero training",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhny7x/i_took_embeddinggemma2_577m_from_rank_26_to_1_on/",
+      "description": "Model & weights: BrunoHays/embeddinggemma-2-nullspace-audio MAEB (Massive Audio Embedding Benchmark) is the main MTEB leaderboard benchmark for audio and text-to-audio embeddings, currently dominated by 8B-9B multimodal models. I took Google's edge-sized google/embeddinggemma-2 (577M params, 768d vectors) and boosted its MAEB score from 49.3% to 54.4% (+5.1 points) , jumping from Rank #26 to #1 on MAEB audio-only (and #16 to #1 on full MAEB ) without training a single weight. The whole addition ",
+      "metrics": {},
+      "meta": {
+        "subreddit": "LocalLLaMA",
+        "rank": "19",
+        "published": "2026-10-28T13:23:06+00:00"
+      }
+    },
+    {
+      "id": "rd-t3_1xhqlrw",
+      "source": "reddit",
+      "title": "Alternative to artificialanalysis for assessing latest models?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhqlrw/alternative_to_artificialanalysis_for_assessing/",
+      "description": "AA no longer lists GLM5.3 flash (despite clearly being one of the best models - and probably the cheapest per intelligence) , they seem to have been doing all sorts of changes to push US models and hiding good cost effective models, including qwen 3.8 flash, so that table is no good. I need a better one. Any alternatives. ",
+      "metrics": {},
+      "meta": {
+        "subreddit": "LocalLLaMA",
+        "rank": "20",
+        "published": "2026-10-28T15:06:33+00:00"
+      }
+    }
+  ],
+  "errors": []
+}
