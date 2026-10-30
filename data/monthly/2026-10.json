@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-10-30T00:41:01.429Z",
+  "month": "2026-10",
+  "weeks": [
+    {
+      "key": "2026-W44",
+      "from": "2026-10-26",
+      "to": "2026-11-01",
+      "headline": "Qwen4 출시 임박 신호와 Qwen 3.8 Flash Next 원격 URL 논란이 겹치며 Qwen이 커뮤니티 화제의 중심에 섰습니다."
+    }
+  ],
+  "overview": "2026년 10월은 아직 진행 중이며, 이 정리는 현재까지 수집된 1주(2026-W44) 기준입니다. 이번 달 흐름의 중심에는 Qwen이 있었습니다. Apsara 컨퍼런스 발언과 Qwen4-27B PR 발견으로 Qwen4 출시 임박 신호가 나왔고, 동시에 Qwen 3.8 Flash Next의 원격 URL 생성 논란이 조사 트레이스 공개와 반박 분석으로 번졌습니다. Mistral Large 4(Le Chonk)의 오픈 웨이트 공개, Gemma 5 임박 관측, 기업들이 오픈 웨이트 모델을 택한다는 IBM CEO 발언이 겹치며 오픈 모델 진영도 힘을 얻었습니다. 반면 Sam Altman의 로컬 추론 비판과 5090·Mac Studio 가격, GPU 가격 폭락 전망이 맞물리며 로컬 AI 하드웨어 비용 논쟁이 가열됐습니다. GitHub에서는 MCP·에이전트 스킬·Claude Code 주변 도구가 주를 이뤘지만 AI와 무관해 보이는 홍보성 저장소도 다수 섞여 있었으며, 남은 기간의 주간 정리가 더해지면 흐름이 달라질 수 있습니다.",
+  "themes": [
+    {
+      "title": "Qwen 출시 신호와 신뢰성 논란",
+      "description": "Apsara 컨퍼런스에서 Qwen4가 다음 주 출시된다는 전언과 vLLM XPU 커널 저장소의 Qwen4-27B PR 발견으로 출시 임박 신호가 이어졌습니다. 동시에 Qwen 3.8 Flash Next가 원격 URL을 생성한다는 논란이 Cohere 측 조사 트레이스 공개, 반박 분석, 풍자 글로까지 확산됐습니다.",
+      "weeks": [
+        "2026-W44"
+      ]
+    },
+    {
+      "title": "오픈 웨이트 모델의 부상",
+      "description": "Mistral Large 4(Le Chonk)가 오픈 웨이트로 공개되고 Gemma 5 공개 임박 관측이 나왔습니다. IBM CEO가 기업들이 비싼 프론티어 AI 대신 오픈 웨이트 모델을 택하고 있다고 말하면서 오픈 모델 흐름에 힘이 실렸습니다.",
+      "weeks": [
+        "2026-W44"
+      ]
+    },
+    {
+      "title": "로컬 AI 하드웨어 비용 논쟁",
+      "description": "Sam Altman이 로컬 추론을 희소 자원의 비효율적 배분이라고 평가하면서 로컬 AI 커뮤니티의 반발과 논의가 이어졌습니다. 5090 가격 1만 달러, Mac Studio M5 Ultra 512GB 22,299달러 같은 가격 소식과 데이터센터 증설 중단에 따른 GPU 가격 폭락 전망이 함께 화제가 됐습니다.",
+      "weeks": [
+        "2026-W44"
+      ]
+    },
+    {
+      "title": "MCP·에이전트 스킬 도구 확산",
+      "description": "GitHub에서는 MCP 연동 보안 도구, 에이전트 스킬 모음, Claude Code·Codex 주변 툴킷과 AI 사용 한도 모니터 등이 주를 이뤘습니다. 다만 AI 토픽만 붙인 홍보성 저장소도 다수 섞여 있어 신호와 잡음이 함께 나타났습니다.",
+      "weeks": [
+        "2026-W44"
+      ]
+    }
+  ],
+  "highlights": [
+    "Apsara 컨퍼런스 발언과 Qwen4-27B PR 발견으로 Qwen4 출시 임박 신호가 나온 가운데, Qwen 3.8 Flash Next의 원격 URL 생성 논란이 트레이스 공개와 반박 분석으로 이어졌습니다.",
+    "Mistral Large 4(Le Chonk)가 오픈 웨이트로 공개되고 Gemma 5 임박 관측과 IBM CEO의 오픈 웨이트 선호 발언이 겹치며 오픈 모델 흐름이 힘을 얻었습니다.",
+    "Sam Altman의 로컬 추론 비판을 계기로 5090·Mac Studio 가격과 GPU 가격 폭락 전망 등 로컬 AI 하드웨어 비용 논쟁이 가열됐습니다."
+  ]
+}

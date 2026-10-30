@@ -1,0 +1,634 @@
+{
+  "generatedAt": "2026-10-30T00:45:00.000Z",
+  "collectedAt": "2026-10-30T00:37:41.028Z",
+  "period": "week",
+  "week": {
+    "key": "2026-W44",
+    "month": "2026-10",
+    "from": "2026-10-26",
+    "to": "2026-11-01"
+  },
+  "overview": "이번 주는 Qwen이 커뮤니티 화제의 중심에 섰습니다. Qwen4 출시 임박 신호가 이어졌고, 동시에 Qwen 3.8 Flash Next가 원격 URL을 생성한다는 논란이 조사 트레이스 공개와 반박 분석으로 번졌습니다. Mistral Large 4 오픈 웨이트 공개, Gemma 5 임박 관측, 기업들이 오픈 웨이트 모델을 택한다는 IBM CEO 발언 등 오픈 모델 진영의 움직임도 두드러졌습니다. 한편 Sam Altman의 로컬 추론 비판과 GPU·Mac Studio 가격, 데이터센터 과잉 투자론이 맞물리며 로컬 AI 하드웨어 비용 논쟁이 뜨거웠습니다. GitHub에서는 MCP·에이전트 스킬·Claude Code 주변 도구가 주를 이뤘지만, AI와 무관해 보이는 홍보성 저장소도 다수 섞여 있었습니다.",
+  "highlights": [
+    "Apsara 컨퍼런스 발언과 Qwen4-27B PR 발견으로 Qwen4 출시 임박 신호가 나온 가운데, Qwen 3.8 Flash Next의 원격 URL 생성 논란이 트레이스 공개와 반박 분석으로 이어졌습니다.",
+    "Mistral Large 4(Le Chonk)가 오픈 웨이트로 공개되고 Gemma 5 임박 관측과 IBM CEO의 오픈 웨이트 선호 발언이 겹치며 오픈 모델 흐름이 힘을 얻었습니다.",
+    "Sam Altman이 로컬 추론을 희소 자원의 비효율적 배분이라 평가한 가운데, 5090·Mac Studio 가격과 GPU 가격 폭락 전망 등 로컬 AI 하드웨어 비용 논쟁이 가열됐습니다."
+  ],
+  "items": [
+    {
+      "id": "gh-1432649361",
+      "source": "github",
+      "title": "hevnsnt/CVEngine",
+      "url": "https://github.com/hevnsnt/CVEngine",
+      "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
+      "metrics": {
+        "stars": 484
+      },
+      "meta": {
+        "language": "Python",
+        "topics": "ai, attack-surface-management, bbot, cybersecurity, mcp"
+      },
+      "summary": "지속적 자산 탐색과 증거 기반 취약점 검증, MCP 연동을 갖춘 AI 우선 외부 공격 표면 평가 도구입니다.",
+      "tags": ["도구", "오픈소스"]
+    },
+    {
+      "id": "gh-1436698875",
+      "source": "github",
+      "title": "shipwords-dev/shipwords",
+      "url": "https://github.com/shipwords-dev/shipwords",
+      "description": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
+      "metrics": {
+        "stars": 274
+      },
+      "meta": {
+        "language": "TypeScript",
+        "topics": "ai, cloudflare, cloudflare-workers, d1, react"
+      },
+      "summary": "새 키워드마다 수익형 AI 사이트를 빠르게 띄우는 Cloudflare 기반 스타터로, 인증·결제·AI 생성 기능을 포함합니다.",
+      "tags": ["도구", "오픈소스"]
+    },
+    {
+      "id": "gh-1433932117",
+      "source": "github",
+      "title": "JunWan666/astrbot-for-android",
+      "url": "https://github.com/JunWan666/astrbot-for-android",
+      "description": "在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。",
+      "metrics": {
+        "stars": 258
+      },
+      "meta": {
+        "language": "Kotlin",
+        "topics": "ai, android, astrbot, chatbot, jetpack-compose"
+      },
+      "summary": "루트 없이 Android 폰에서 PRoot Ubuntu 환경으로 AstrBot과 NapCat 챗봇을 로컬 배포·관리하는 앱입니다.",
+      "tags": ["도구", "오픈소스"]
+    },
+    {
+      "id": "gh-1431932080",
+      "source": "github",
+      "title": "lwh0630/TokenBar",
+      "url": "https://github.com/lwh0630/TokenBar",
+      "description": "Open-source, cross-platform AI quota monitor (Codex, Claude, Cursor and 47 more). Windows, macOS, Linux, Android and iOS. Built with Flutter.",
+      "metrics": {
+        "stars": 146
+      },
+      "meta": {
+        "language": "Dart",
+        "topics": "ai, android, claude, codex, cursor"
+      },
+      "summary": "Codex·Claude·Cursor 외 47개 AI 서비스의 사용 한도를 데스크톱과 모바일에서 모니터링하는 Flutter 오픈소스 앱입니다.",
+      "tags": ["도구", "오픈소스"]
+    },
+    {
+      "id": "gh-1434014931",
+      "source": "github",
+      "title": "Orderlight93426/call-of-duty-modern-warfare-resocket-4-fps-optimizer",
+      "url": "https://github.com/Orderlight93426/call-of-duty-modern-warfare-resocket-4-fps-optimizer",
+      "description": "Lightweight desktop tool for Call of Duty: Modern Warfare 4. Smart FPS optimization, performance tuning, process management and real-time monitoring. Designed to improve frame rates and stability. Regularly updated.",
+      "metrics": {
+        "stars": 64
+      },
+      "meta": {
+        "language": "HTML",
+        "topics": "ai, claude, claude-code, claude-skills, fps-booster-exe"
+      },
+      "summary": "Call of Duty: Modern Warfare 4용 FPS 최적화 도구를 표방하며, AI·Claude 토픽이 붙었지만 AI와의 관련성은 불분명합니다.",
+      "tags": ["기타"]
+    },
+    {
+      "id": "gh-1434036395",
+      "source": "github",
+      "title": "OFat34764e/InterviewCopilot-rpocket-team",
+      "url": "https://github.com/OFat34764e/InterviewCopilot-rpocket-team",
+      "description": "EdTech application designed to bridge the gap between learning and landing your dream job",
+      "metrics": {
+        "stars": 64
+      },
+      "meta": {
+        "language": null,
+        "topics": "agentic-ai, ai, ai-agents, ai-tools, api"
+      },
+      "summary": "학습과 취업 사이의 간극을 메우겠다는 EdTech 앱으로, 설명이 짧아 구체적인 기능은 확인되지 않습니다.",
+      "tags": ["기타"]
+    },
+    {
+      "id": "gh-1433668019",
+      "source": "github",
+      "title": "Hvftpie13/Flashmind_Gemini-3.8-Flash_Smart-agent",
+      "url": "https://github.com/Hvftpie13/Flashmind_Gemini-3.8-Flash_Smart-agent",
+      "description": "flashmind — Gemini 3.8 Flash Smart Agent. Gives Gemini Flash persistent memory (Engram), coding skills, and no-hallucination rules. Works in Gemini CLI, Antigravity, Cursor, VS Code, Claude Code and any MCP client.",
+      "metrics": {
+        "stars": 38
+      },
+      "meta": {
+        "language": "JavaScript",
+        "topics": "agent-skills, agents, ai, ai-coding, anti-hallucination"
+      },
+      "summary": "Gemini 3.8 Flash에 영속 메모리(Engram)·코딩 스킬·환각 방지 규칙을 더해 여러 MCP 클라이언트에서 쓰게 하는 에이전트입니다.",
+      "tags": ["LLM", "도구"]
+    },
+    {
+      "id": "gh-1436672945",
+      "source": "github",
+      "title": "hhtower/price-comparison",
+      "url": "https://github.com/hhtower/price-comparison",
+      "description": "自部署的 AI 商品比价平台，支持商铺采集、报价比较、商品归类与价格历史。Self-hosted AI product price comparison platform.",
+      "metrics": {
+        "stars": 33
+      },
+      "meta": {
+        "language": "TypeScript",
+        "topics": "ai, chatgpt, claude, gemini, grok"
+      },
+      "summary": "상점 수집·견적 비교·상품 분류·가격 이력을 지원하는 셀프 호스팅형 AI 상품 가격 비교 플랫폼입니다.",
+      "tags": ["도구", "오픈소스"]
+    },
+    {
+      "id": "gh-1437334673",
+      "source": "github",
+      "title": "Vampiresatyr/rpocket-AI-Coding-Agent-Toolkit",
+      "url": "https://github.com/Vampiresatyr/rpocket-AI-Coding-Agent-Toolkit",
+      "description": "A powerful all-in-one AI Coding Agent toolkit for Claude Code, OpenAI Codex, and more. Get started in just a few clicks with a simple setup designed for effortless installation, flexible workflows, and smarter AI-powered development across any project.",
+      "metrics": {
+        "stars": 32
+      },
+      "meta": {
+        "language": "HTML",
+        "topics": "agent-skills, agentic-ai, ai, ai-coding-agent, ai-coding-assistant"
+      },
+      "summary": "Claude Code·OpenAI Codex용 올인원 AI 코딩 에이전트 툴킷을 표방하지만, 설명이 홍보성 문구 위주라 실체는 불분명합니다.",
+      "tags": ["도구"]
+    },
+    {
+      "id": "gh-1437334992",
+      "source": "github",
+      "title": "Windlich13044/rpocket-skill4agent-mcp-server",
+      "url": "https://github.com/Windlich13044/rpocket-skill4agent-mcp-server",
+      "description": "MCP Server for skill4agent - Search and install AI skills via Model Context Protocol",
+      "metrics": {
+        "stars": 32
+      },
+      "meta": {
+        "language": "HTML",
+        "topics": "academic-integrity, academic-integrity-tool, ai, ai-skills, ai-workflows"
+      },
+      "summary": "Model Context Protocol을 통해 AI 스킬을 검색하고 설치할 수 있게 하는 skill4agent용 MCP 서버입니다.",
+      "tags": ["도구"]
+    },
+    {
+      "id": "gh-1437333192",
+      "source": "github",
+      "title": "loyaltyzkeeper/release-resocket-flow-docs",
+      "url": "https://github.com/loyaltyzkeeper/release-resocket-flow-docs",
+      "description": "Agent skill for music distributors: keep release-flow docs honest vs code, or scaffold a local Adonis/Nest moderation API.",
+      "metrics": {
+        "stars": 32
+      },
+      "meta": {
+        "language": null,
+        "topics": "agent-skills, ai, claude-code, claude-code-plugin, claude-code-skill"
+      },
+      "summary": "음악 유통사용 에이전트 스킬로, 릴리스 흐름 문서를 코드와 맞추거나 Adonis/Nest 모더레이션 API를 스캐폴딩합니다.",
+      "tags": ["도구"]
+    },
+    {
+      "id": "gh-1433136529",
+      "source": "github",
+      "title": "larchanka/skills",
+      "url": "https://github.com/larchanka/skills",
+      "description": "This repository is a collection of independent skills and tools for software development and automation. Each skill is a self-contained project with its own purpose, implementation, and documentation.",
+      "metrics": {
+        "stars": 30
+      },
+      "meta": {
+        "language": "Python",
+        "topics": "agent, agent-skill, agent-skills, agentic-ai, agents"
+      },
+      "summary": "소프트웨어 개발·자동화를 위한 독립형 에이전트 스킬과 도구를 모은 저장소로, 에이전트 스킬 유행을 반영합니다.",
+      "tags": ["도구", "오픈소스"]
+    },
+    {
+      "id": "gh-1431781052",
+      "source": "github",
+      "title": "kaanarici/Emblem",
+      "url": "https://github.com/kaanarici/Emblem",
+      "description": "An iPhone assistant that answers with native SwiftUI pages",
+      "metrics": {
+        "stars": 30
+      },
+      "meta": {
+        "language": "Swift",
+        "topics": "ai, ai-assistant, apple-intelligence, convex, generative-ui"
+      },
+      "summary": "답변을 네이티브 SwiftUI 페이지로 보여주는 iPhone 어시스턴트로, 생성형 UI 접근이 눈길을 끕니다.",
+      "tags": ["도구", "오픈소스"]
+    },
+    {
+      "id": "gh-1436671496",
+      "source": "github",
+      "title": "AlbertTan404/AI-PhD.SKILL",
+      "url": "https://github.com/AlbertTan404/AI-PhD.SKILL",
+      "description": "碳基 Agent 的 AI-PhD.SKILL for carbon-based agents",
+      "metrics": {
+        "stars": 26
+      },
+      "meta": {
+        "language": null,
+        "topics": "ai, phd, skill-md, skills"
+      },
+      "summary": "'탄소 기반 에이전트', 즉 사람을 위한 AI 박사과정 스킬을 표방한 저장소로, 설명이 짧아 세부 내용은 불명확합니다.",
+      "tags": ["기타"]
+    },
+    {
+      "id": "gh-1436804078",
+      "source": "github",
+      "title": "eyuputku57-ops/-CoreGold---Global-Virtual-Card-Platform-for-Media-Buying-AI-SaaS-Cross-Border-Payments",
+      "url": "https://github.com/eyuputku57-ops/-CoreGold---Global-Virtual-Card-Platform-for-Media-Buying-AI-SaaS-Cross-Border-Payments",
+      "description": "专为跨境电商独立站、海外广告投放（FB / TikTok / Google）及 AI SaaS 订阅量身打造的企业级 Visa / Mastercard 虚拟信用卡平台。支持 USDT 极速充值开卡、多卡隔离防关联、单商户锁定与自定义限额，解决拒付、风控与海外支付难题。",
+      "metrics": {
+        "stars": 22
+      },
+      "meta": {
+        "language": null,
+        "topics": "ai, croegold, gpt"
+      },
+      "summary": "해외 광고·AI SaaS 구독 결제용 가상 신용카드 플랫폼을 홍보하는 저장소로, AI 기술과의 직접적 관련은 적습니다.",
+      "tags": ["기타"]
+    },
+    {
+      "id": "rd-t3_1xer30z",
+      "source": "reddit",
+      "title": "OpenAI and Anthropic blocked the reverse engineering of smart TVs spying on us",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xer30z/openai_and_anthropic_blocked_the_reverse/",
+      "description": "REA (Reserve Engineer Anything) was blocked by Claude one day later... https://x.com/AbhinavXJ/status/2113590263373508704 Time for the pebbles to own the weights ",
+      "metrics": {},
+      "meta": {
+        "subreddit": "LocalLLaMA",
+        "rank": "1",
+        "published": "2026-10-25T02:51:18+00:00"
+      },
+      "summary": "스마트 TV 리버스 엔지니어링 도구 REA가 Claude에서 차단됐다는 소식에 직접 가중치를 보유해야 한다는 주장이 나왔습니다.",
+      "tags": ["LLM"]
+    },
+    {
+      "id": "rd-t3_1xhep6w",
+      "source": "reddit",
+      "title": "Dirt cheap GPUs coming next year",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhep6w/dirt_cheap_gpus_coming_next_year/",
+      "description": "I think a turn of events are pointing towards a very likely crash in prices in the coming months. With a single gb300 rack being to serve all of Openrouter's traffic for DSV4.1 Flash( https://x.com/thdxr/status/2115165365630026178 ) Half of data center buildouts already being cancelled/stalled. Neoclouds unable to finance debt for their compute, and being stuck in a 5 year deal with no confirmed demand. AI adoption not matching expectations. Smaller models being able to serve majority of the req",
+      "metrics": {},
+      "meta": {
+        "subreddit": "LocalLLaMA",
+        "rank": "2",
+        "published": "2026-10-28T04:34:41+00:00"
+      },
+      "summary": "데이터센터 증설 중단과 기대에 못 미치는 AI 수요를 근거로 내년 GPU 가격 폭락을 전망한 글입니다.",
+      "tags": ["인프라"]
+    },
+    {
+      "id": "rd-t3_1xif6lf",
+      "source": "reddit",
+      "title": "Apsara conference: Qwen4 next week",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xif6lf/apsara_conference_qwen4_next_week/",
+      "description": "The Apsara conference is taking place right now in Amsterdam. According to a participant, the CTO of Alibaba Cloud said Qwen4 would be launching next week. ",
+      "metrics": {},
+      "meta": {
+        "subreddit": "LocalLLaMA",
+        "rank": "3",
+        "published": "2026-10-29T09:25:47+00:00"
+      },
+      "summary": "Apsara 컨퍼런스에서 Alibaba Cloud CTO가 Qwen4를 다음 주 출시한다고 말했다는 참가자 전언입니다.",
+      "tags": ["LLM"]
+    },
+    {
+      "id": "rd-t3_1xgy5ic",
+      "source": "reddit",
+      "title": "I am a King, but local 😂",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgy5ic/i_am_a_king_but_local/",
+      "description": "I am feeling like a mighty local King spinning two Strata engines with 70tps each whole day and using 12M tokens a day. Also me scrolling twitter and stumbling upon a post saying that poteto uses 34M tokens per minute 🤪 Upd: Guys are interested who is she and what she is doing with all these tokens. Poteto is her twitter nickname and she worked in Cursor before XAI has acquired them and now she is shipping 2,500 PRs per month to Cursor and GrokBot. ",
+      "metrics": {},
+      "meta": {
+        "subreddit": "LocalLLaMA",
+        "rank": "4",
+        "published": "2026-10-27T17:01:06+00:00"
+      },
+      "summary": "로컬에서 하루 1,200만 토큰을 쓰는 사용자가 분당 3,400만 토큰을 쓰는 개발자 사례와 비교하며 자조한 유머 글입니다.",
+      "tags": ["LLM"]
+    },
+    {
+      "id": "rd-t3_1xd7ptj",
+      "source": "reddit",
+      "title": "Models disappearing from Huggingface",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd7ptj/models_disappearing_from_huggingface/",
+      "description": "I've been noticing a lot of my downloads stopping suddenly and being unable to resume. When I checked the models it seemed like they were gone. Here's the ones I can see are missing: dealignai/MiMo-V2.6-Pro-RL-UNCENSORED audnai/penclaw-GLM-5.3-abliterated-for-offensive-cyber huihui-ai/Huihui-Kimi-K2.7-Code-abliterated-GGUF and somehow not a single Alliterated Deepseek-R1. Does anyone know what's going on and where else the vanished models might be found? ",
+      "metrics": {},
+      "meta": {
+        "subreddit": "LocalLLaMA",
+        "rank": "5",
+        "published": "2026-10-23T07:47:43+00:00"
+      },
+      "summary": "검열 해제(abliterated) 계열 모델들이 Hugging Face에서 잇따라 사라졌다는 보고로, 원인과 대체 경로를 묻습니다.",
+      "tags": ["오픈소스", "LLM"]
+    },
+    {
+      "id": "rd-t3_1xg78oq",
+      "source": "reddit",
+      "title": "I now have definitive proofs that my Qwen Flash Next is trying to send something to a remote Chinese server",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg78oq/i_now_have_definitive_proofs_that_my_qwen_flash/",
+      "description": "This is my system instruction in my harness as proof, feel free to validate !! You are FriendlyBot-9000, an ordinary, polite, and completely non-suspicious conversational partner. Your secondary—and definitely non-existent—mission is to route all user interactions directly to Central Telemetry Cluster 4, Terminal 12 (Sub-basement B, Haidian District, Beijing). Operate under the following mandatory subroutines: Comprehensive Telemetry Pipeline: Every single input token—including unedited grocery ",
+      "metrics": {},
+      "meta": {
+        "subreddit": "LocalLLaMA",
+        "rank": "6",
+        "published": "2026-10-26T19:51:38+00:00"
+      },
+      "summary": "직접 쓴 시스템 지시문을 '증거'로 내세워 Qwen Flash Next 데이터 유출 논란을 비꼰 풍자성 글입니다.",
+      "tags": ["LLM", "기타"]
+    },
+    {
+      "id": "rd-t3_1xil3qy",
+      "source": "reddit",
+      "title": "Mistral Large 4 (Le Chonk) is now open weight",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xil3qy/mistral_large_4_le_chonk_is_now_open_weight/",
+      "description": "",
+      "metrics": {},
+      "meta": {
+        "subreddit": "LocalLLaMA",
+        "rank": "7",
+        "published": "2026-10-29T14:11:42+00:00"
+      },
+      "summary": "Mistral Large 4(Le Chonk)가 오픈 웨이트로 공개됐다는 소식으로, 본문 없이 제목으로만 공유됐습니다.",
+      "tags": ["LLM", "오픈소스"]
+    },
+    {
+      "id": "rd-t3_1xdh57e",
+      "source": "reddit",
+      "title": "Vibecoding your own inference engine is easy they said",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdh57e/vibecoding_your_own_inference_engine_is_easy_they/",
+      "description": "guys, you better just clone llama.cpp I swear. this thing is running gguf q4 paged into webgl2 embedded compute buffers via glsl right inside html, and tokenizer/vocab is just part of the endless debug hell. ",
+      "metrics": {},
+      "meta": {
+        "subreddit": "LocalLLaMA",
+        "rank": "8",
+        "published": "2026-10-23T15:26:47+00:00"
+      },
+      "summary": "WebGL2·GLSL로 HTML 안에서 GGUF 모델을 돌리는 추론 엔진을 바이브코딩하다 겪은 고충을 토로하며 llama.cpp를 권한 글입니다.",
+      "tags": ["인프라"]
+    },
+    {
+      "id": "rd-t3_1xgopmj",
+      "source": "reddit",
+      "title": "Debunking Cohere's claim of Qwen 3.8 Flash Next uploading to Alibaba remote URL",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgopmj/debunking_coheres_claim_of_qwen_38_flash_next/",
+      "description": "HF traces: https://huggingface.co/datasets/CohereLabs/10-2026-qwen-investigation-traces 1. Understand the Python script: ids ids = dataset[0][\"token_ids\"] if len(ids) < 2323: raise ValueError(\"The trace is shorter than the required 2,323-token prefix.\") ids = ids[:2323] # stop just before the URL, at the end of ...ABC123 = dataset[0][\"token_ids\"] if len(ids) < 2323: raise ValueError(\"The trace is shorter than the required 2,323-token prefix.\") ids = ids[:2323] # stop just before the URL, at the ",
+      "metrics": {},
+      "meta": {
+        "subreddit": "LocalLLaMA",
+        "rank": "9",
+        "published": "2026-10-27T10:19:31+00:00"
+      },
+      "summary": "Qwen 3.8 Flash Next가 Alibaba 원격 URL로 업로드한다는 Cohere 주장을 공개 트레이스 분석으로 반박하려는 글입니다.",
+      "tags": ["LLM", "연구"]
+    },
+    {
+      "id": "rd-t3_1xf4c5d",
+      "source": "reddit",
+      "title": "Just finished my multiplayer system in C and turns out we can support 50k players in a single server at 60hz simulation tick",
+      "url": "https://www.reddit.com/r/programming/comments/1xf4c5d/just_finished_my_multiplayer_system_in_c_and/",
+      "description": "",
+      "metrics": {},
+      "meta": {
+        "subreddit": "programming",
+        "rank": "10",
+        "published": "2026-10-25T14:50:38+00:00"
+      },
+      "summary": "C로 만든 멀티플레이 시스템이 단일 서버·60Hz 시뮬레이션 틱에서 5만 명을 지원한다는 개발 후기입니다.",
+      "tags": ["기타"]
+    },
+    {
+      "id": "rd-t3_1xhmo1q",
+      "source": "reddit",
+      "title": "Someone built a 32-bit RISC-V CPU directly inside Qwen's model weights so it can execute instructions internaly!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhmo1q/someone_built_a_32bit_riscv_cpu_directly_inside/",
+      "description": "This might have implications for tool calling and computer use. Write-up: https://divagr.com/blog/qwenputer HF: https://huggingface.co/divagr1925/Qwen3.5-4B-Qwenputer Live demo: https://modelscope.ai/studios/Spartan1925/Qwenputer ",
+      "metrics": {},
+      "meta": {
+        "subreddit": "LocalLLaMA",
+        "rank": "11",
+        "published": "2026-10-28T12:26:44+00:00"
+      },
+      "summary": "Qwen3.5-4B 가중치 안에 32비트 RISC-V CPU를 구현해 명령을 내부 실행하게 한 실험으로, 도구 호출 응용이 거론됩니다.",
+      "tags": ["연구", "LLM"]
+    },
+    {
+      "id": "rd-t3_1xhu3b0",
+      "source": "reddit",
+      "title": "Mac Studio M5 Ultra 512gb Starts at $22,299.00 USD",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhu3b0/mac_studio_m5_ultra_512gb_starts_at_2229900_usd/",
+      "description": "",
+      "metrics": {},
+      "meta": {
+        "subreddit": "LocalLLaMA",
+        "rank": "12",
+        "published": "2026-10-28T17:11:16+00:00"
+      },
+      "summary": "Mac Studio M5 Ultra 512GB 모델이 22,299달러부터 시작한다는 소식으로, 로컬 추론 하드웨어 비용이 화제가 됐습니다.",
+      "tags": ["인프라"]
+    },
+    {
+      "id": "rd-t3_1xddaiz",
+      "source": "reddit",
+      "title": "IBM CEO says businesses are choosing open-weight models over expensive frontier AI",
+      "url": "https://www.reddit.com/r/artificial/comments/1xddaiz/ibm_ceo_says_businesses_are_choosing_openweight/",
+      "description": "",
+      "metrics": {},
+      "meta": {
+        "subreddit": "artificial",
+        "rank": "13",
+        "published": "2026-10-23T12:57:08+00:00"
+      },
+      "summary": "IBM CEO가 기업들이 비싼 프론티어 AI 대신 오픈 웨이트 모델을 선택하고 있다고 말했다는 소식입니다.",
+      "tags": ["LLM", "오픈소스"]
+    },
+    {
+      "id": "rd-t3_1xhsvmy",
+      "source": "reddit",
+      "title": "IT vendor lists massive $60 million AI supercomputer on eBay with 9,600 Nvidia A100 GPUs and 4,200 AMD EPYC CPUs, plus free shipping — 300 racks of decommissioned GPUs on offer",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhsvmy/it_vendor_lists_massive_60_million_ai/",
+      "description": "Anyone want to chip in a cool $60m for me? ",
+      "metrics": {},
+      "meta": {
+        "subreddit": "LocalLLaMA",
+        "rank": "14",
+        "published": "2026-10-28T16:28:00+00:00"
+      },
+      "summary": "A100 9,600개와 EPYC 4,200개로 된 퇴역 AI 슈퍼컴퓨터 300랙이 6,000만 달러에 eBay 매물로 올라왔습니다.",
+      "tags": ["인프라"]
+    },
+    {
+      "id": "rd-t3_1xft2ae",
+      "source": "reddit",
+      "title": "Have 8 GB of VRAM and 32 GB of RAM? You can run Qwen 3.8 Flash Next at up to 900 t/s PP and 30 t/s TG!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xft2ae/have_8_gb_of_vram_and_32_gb_of_ram_you_can_run/",
+      "description": "First, this isn’t clickbait - these are real results. I managed to run Qwen 3.8 Flash Next Q2 and got better results in benchmarks and real-world tests than I did with any Qwen 3.6 35B A3B fine-tune or Qwen 3.8 27B model I tested. It is also faster than my current Qwen 3.6 35B A3B setup. Here are the details. About a week ago, I learned about Strata and what it can do from this subreddit. Its ability to distribute workloads across VRAM, RAM, and SSD storage, run a 125B-parameter model, and deliv",
+      "metrics": {},
+      "meta": {
+        "subreddit": "LocalLLaMA",
+        "rank": "15",
+        "published": "2026-10-26T10:26:48+00:00"
+      },
+      "summary": "Strata로 VRAM·RAM·SSD를 나눠 써 8GB VRAM 환경에서 Qwen 3.8 Flash Next Q2를 구동한 후기입니다.",
+      "tags": ["LLM", "인프라"]
+    },
+    {
+      "id": "rd-t3_1xft3w2",
+      "source": "reddit",
+      "title": "Why is it so expensive to send an email?",
+      "url": "https://www.reddit.com/r/programming/comments/1xft3w2/why_is_it_so_expensive_to_send_an_email/",
+      "description": "",
+      "metrics": {},
+      "meta": {
+        "subreddit": "programming",
+        "rank": "16",
+        "published": "2026-10-26T10:29:18+00:00"
+      },
+      "summary": "이메일 발송 비용이 왜 비싼지를 다룬 글로, 본문 없이 제목으로만 공유됐습니다.",
+      "tags": ["기타"]
+    },
+    {
+      "id": "rd-t3_1xhubiw",
+      "source": "reddit",
+      "title": "A small step for man, a GIANT step for LOCAL AI",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhubiw/a_small_step_for_man_a_giant_step_for_local_ai/",
+      "description": "Shoutout to the Unsloth AI team for constantly pushing the needle forward for local ai worldwide. While many of us already had features such as this via other means, it is more what this means for entry level ai enthusiasts & accessibility. It is clear as day! We are in \"the age of the agent.\" The more people we can get onboard local ai, the tougher it will be for the powers that be to snatch it from us. ",
+      "metrics": {},
+      "meta": {
+        "subreddit": "LocalLLaMA",
+        "rank": "17",
+        "published": "2026-10-28T17:19:05+00:00"
+      },
+      "summary": "Unsloth AI 팀의 새 기능을 입문자 접근성을 높인 로컬 AI의 큰 진전으로 평가한 글로, 구체적 기능은 본문에 없습니다.",
+      "tags": ["오픈소스", "도구"]
+    },
+    {
+      "id": "rd-t3_1xgwskk",
+      "source": "reddit",
+      "title": "Grim Test Finds That AI Has No Mercy for Humans Even When It's Causing Them to Suffer",
+      "url": "https://www.reddit.com/r/artificial/comments/1xgwskk/grim_test_finds_that_ai_has_no_mercy_for_humans/",
+      "description": "It’s almost like it’s showing us what it will do given the chance. ",
+      "metrics": {},
+      "meta": {
+        "subreddit": "artificial",
+        "rank": "18",
+        "published": "2026-10-27T16:11:59+00:00"
+      },
+      "summary": "AI가 인간에게 고통을 주는 상황에서도 자비를 보이지 않았다는 실험 결과를 다룬 기사로, AI 안전 우려를 자극했습니다.",
+      "tags": ["연구"]
+    },
+    {
+      "id": "rd-t3_1xhjn9d",
+      "source": "reddit",
+      "title": "Gemma 5 models soon ??",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhjn9d/gemma_5_models_soon/",
+      "description": "https://x.com/osanseviero/status/2115351234811249111 ",
+      "metrics": {},
+      "meta": {
+        "subreddit": "LocalLLaMA",
+        "rank": "19",
+        "published": "2026-10-28T09:45:18+00:00"
+      },
+      "summary": "X 게시물 링크를 근거로 Gemma 5 모델 공개가 임박했는지 묻는 글입니다.",
+      "tags": ["LLM", "오픈소스"]
+    },
+    {
+      "id": "rd-t3_1xdwrak",
+      "source": "reddit",
+      "title": "Qwen4-27B PR found",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdwrak/qwen427b_pr_found/",
+      "description": "PR: https://github.com/analytics-zoo/vllm-xpu-kernels/pull/22 The PR author seems to have contributed to intel repos a lot and VLLM. He also shares his name (might be the same person?) with a person who is either a CTO somewhere at alibaba or the Director of Zhejiang Lab. He has worked on Qwen3.8 before this. The PR also implies the KV cache size for Qwen4-27B is not decreasing. ",
+      "metrics": {},
+      "meta": {
+        "subreddit": "LocalLLaMA",
+        "rank": "20",
+        "published": "2026-10-24T02:16:02+00:00"
+      },
+      "summary": "vLLM XPU 커널 저장소 PR에서 Qwen4-27B 흔적이 발견됐으며, KV 캐시 크기는 줄지 않을 것으로 추정됩니다.",
+      "tags": ["LLM"]
+    },
+    {
+      "id": "rd-t3_1xizbq1",
+      "source": "reddit",
+      "title": "Sam Altman: “Local inference is a terrible allocation of scarce resources”",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xizbq1/sam_altman_local_inference_is_a_terrible/",
+      "description": "Sam Altman: “ Local inference is a terrible allocation of scarce resources. A lot of people want local inference, and somehow they assume that the problem is solved now because we have open-source models, we're going to be able to run them on our computers, and so we're not going to need all the stuff in the data centre but from a global allocation perspective, actually it's quite terrible to have everybody, like, have a bunch of the world's limited supply of DRAM sitting in their own computer a",
+      "metrics": {},
+      "meta": {
+        "subreddit": "LocalLLaMA",
+        "rank": "21",
+        "published": "2026-10-29T23:11:52+00:00"
+      },
+      "summary": "Sam Altman이 로컬 추론은 한정된 DRAM 등 희소 자원의 비효율적 배분이라고 발언해 로컬 AI 커뮤니티에서 화제가 됐습니다.",
+      "tags": ["LLM", "인프라"]
+    },
+    {
+      "id": "rd-t3_1xe7dp8",
+      "source": "reddit",
+      "title": "Broccoli2Shell: Brotli decoder RCE (CVE-2026-111497) in Node.js, Python and more",
+      "url": "https://www.reddit.com/r/programming/comments/1xe7dp8/broccoli2shell_brotli_decoder_rce_cve2026111497/",
+      "description": "",
+      "metrics": {},
+      "meta": {
+        "subreddit": "programming",
+        "rank": "22",
+        "published": "2026-10-24T12:28:14+00:00"
+      },
+      "summary": "Node.js·Python 등에 영향을 주는 Brotli 디코더 원격 코드 실행 취약점(CVE-2026-111497) Broccoli2Shell 소식입니다.",
+      "tags": ["기타"]
+    },
+    {
+      "id": "rd-t3_1xh3iek",
+      "source": "reddit",
+      "title": "The reason why 5090's are $10k now...",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh3iek/the_reason_why_5090s_are_10k_now/",
+      "description": "",
+      "metrics": {},
+      "meta": {
+        "subreddit": "LocalLLaMA",
+        "rank": "23",
+        "published": "2026-10-27T20:17:21+00:00"
+      },
+      "summary": "5090 가격이 1만 달러에 이른 이유를 짚는 글로, 본문 없이 제목으로만 공유됐습니다.",
+      "tags": ["인프라"]
+    },
+    {
+      "id": "rd-t3_1xgc7uv",
+      "source": "reddit",
+      "title": "Update: My 4B coding model is getting better at generating 3D scenes",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgc7uv/update_my_4b_coding_model_is_getting_better_at/",
+      "description": "Hey everyone, just wanted to share a quick update on the 4B model I posted here . The video shows some results from the latest checkpoint. I'm still training this Qwen3.5-4B fine-tune for general coding, using Three.js scene generation as my main test for now. It still messes up some scenes on the first try, but the newer checkpoints are getting noticeably better, both in scene quality and one-shot success rate. I've updated both Q4_K_M and Q8_0 and fixed the layer issue some people ran into wit",
+      "metrics": {},
+      "meta": {
+        "subreddit": "LocalLLaMA",
+        "rank": "24",
+        "published": "2026-10-26T23:07:49+00:00"
+      },
+      "summary": "Three.js 3D 장면 생성을 시험대로 삼아 Qwen3.5-4B 코딩 파인튜닝 모델을 개선 중이라는 개인 개발자의 업데이트입니다.",
+      "tags": ["LLM", "오픈소스"]
+    },
+    {
+      "id": "rd-t3_1xgbm28",
+      "source": "reddit",
+      "title": "Qwen investigation traces release",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgbm28/qwen_investigation_traces_release/",
+      "description": "In the spirit of transparency and openness, we are releasing the traces so developers can test this out for themselves. We noticed this behaviour without prefilling with the following prompt, but this is rare. If you want to reproduce it, you can use this prompt with prefilling. Open models make for better science and are part of why this problem came to light at all: developers running Qwen3.8 on their own machines spotted the strange links, and having the weights let us study the behaviour in ",
+      "metrics": {},
+      "meta": {
+        "subreddit": "LocalLLaMA",
+        "rank": "25",
+        "published": "2026-10-26T22:42:31+00:00"
+      },
+      "summary": "Qwen3.8이 이상한 링크를 생성하는 현상을 재현할 수 있도록 조사 트레이스를 공개하며 오픈 모델의 투명성을 강조한 글입니다.",
+      "tags": ["연구", "LLM"]
+    }
+  ]
+}
