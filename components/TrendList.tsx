@@ -14,6 +14,9 @@ const SOURCE_DOT: Record<Source, string> = {
   reddit: "bg-orange-500",
 };
 
+// 요약 단계에서 url이 바뀌었을 경우까지 대비해 https 링크만 건다.
+const safeHref = (url: string) => (/^https:\/\//i.test(url) ? url : undefined);
+
 function Metric({ item }: { item: TrendItem }) {
   if (item.metrics.stars !== undefined) {
     return (
@@ -70,7 +73,7 @@ export default function TrendList({ items }: { items: TrendItem[] }) {
         {shown.map((item) => (
           <li key={item.id}>
             <a
-              href={item.url}
+              href={safeHref(item.url)}
               target="_blank"
               rel="noopener noreferrer"
               className="group flex flex-col gap-2 px-3 py-5 transition-colors hover:bg-zinc-100/70 focus-visible:outline-2 focus-visible:-outline-offset-2 focus-visible:outline-lime-500 sm:px-4 dark:hover:bg-zinc-900/70"

@@ -95,6 +95,15 @@ async function fetchReddit() {
   });
 }
 
+// url은 화면에서 링크로 그대로 쓰이므로 https만 남긴다 (javascript:, data: 등 차단).
+const isHttps = (url) => {
+  try {
+    return new URL(url).protocol === "https:";
+  } catch {
+    return false;
+  }
+};
+
 const items = [];
 const errors = [];
 
@@ -105,9 +114,11 @@ const jobs = [
 
 for (const job of jobs) {
   try {
-    const got = await job.run();
+    const fetched = await job.run();
+    const got = fetched.filter((item) => isHttps(item.url));
     items.push(...got);
-    console.log(`✓ ${job.source}: ${got.length}개`);
+    const dropped = fetched.length - got.length;
+    console.log(`✓ ${job.source}: ${got.length}개${dropped ? ` (https가 아닌 URL ${dropped}개 제외)` : ""}`);
   } catch (err) {
     errors.push({ source: job.source, message: String(err.message ?? err) });
     console.warn(`✗ ${job.source}: ${err.message ?? err}`);
